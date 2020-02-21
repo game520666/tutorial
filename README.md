@@ -17,5 +17,5 @@ https://github.com/MunGell/awesome-for-beginners
 
 Spring 练习项目
 
-spring-petclinic 
+spring-petclinic:
 https://spring-petclinic.github.io/
